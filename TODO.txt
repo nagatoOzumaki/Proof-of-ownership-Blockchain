@@ -1,0 +1,2 @@
+1- afficher les détails des photos quand on les reçoit
+2- Timestamp : block.Timestamp ou now?
